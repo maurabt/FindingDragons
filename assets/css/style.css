@@ -27,8 +27,9 @@ a:hover, a:active, a:focus {
 }
 
 p {
-  padding: 0;
   margin: 0 0 30px 0;
+  padding-left: 20% !important;
+  padding-right:20% !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,6 +39,22 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
+.indent {
+  margin-left: 2%;
+}
+
+.venmo {
+  border-radius: 4px;
+}
+
+.venmo:hover {
+  transform: scale(1.08);
+}
+
+td {
+  text-align: center;
+  color: white;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
