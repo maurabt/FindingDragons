@@ -883,7 +883,7 @@ section {
   transition: 0.2s linear;
   color: white;
   top: calc(2%);
-  font-size: 15px;
+  font-size: 13.5px;
   padding: 0 2% 0 2%;
 }
 #portfolio .portfolio-item figure:hover .link-details {
